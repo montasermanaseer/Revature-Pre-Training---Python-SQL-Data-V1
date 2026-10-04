@@ -1,0 +1,11 @@
+Files to include in ZIP:
+- src/ (with lab.py, capture_output.py, lab_output.png)
+- src/data/transactions.db (optional)
+- requirements.txt
+- src/main/README.md
+
+Before zipping, remove .venv if present.
+
+Zip command (PowerShell):
+
+Compress-Archive -Path .\src, .\requirements.txt, .\src\main\README.md -DestinationPath lab_submission.zip

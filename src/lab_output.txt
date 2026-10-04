@@ -1,0 +1,50 @@
+
+--- Query 1: Top 5 Best-Selling Products ---
+Python for Data: 172
+Spark Intro: 170
+Spark Advanced: 168
+Big Data Essentials: 167
+Hadoop Advanced: 153
+
+--- Query 2: Monthly Revenue Trend ---
+2025-01: 47173.74
+2025-02: 41047.52
+2025-03: 39492.05
+2025-04: 47832.56
+2025-05: 51945.5
+2025-06: 43128.08
+
+--- Query 3: Payment Method Popularity ---
+Cash: 274
+Credit Card: 245
+PayPal: 234
+Debit Card: 227
+
+--- Query 4: Top 5 Cities with Most Transactions ---
+Houston: 175
+Chicago: 175
+New York: 168
+Seattle: 167
+Los Angeles: 162
+
+--- Query 5: Top 5 Spending Customers ---
+CUST092: 5437.44
+CUST011: 5332.8
+CUST063: 5294.23
+CUST003: 4563.07
+CUST081: 4492.42
+
+--- Query 6: Hadoop vs Spark Sales ---
+Hadoop - Transactions: 303, Total Sales: 84207.09
+Spark - Transactions: 338, Total Sales: 94512.61
+
+--- Query 7: Top Spending Customer(s) per City ---
+Chicago - CUST064: 1606.62
+Houston - CUST029: 2142.5
+Los Angeles - CUST034: 1525.92
+New York - CUST098: 1684.36
+San Francisco - CUST022: 1150.49
+Seattle - CUST100: 1801.34
+
+Data Processing & Advanced Analysis Completed Successfully!
+
